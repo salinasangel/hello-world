@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow.
+My name is Angel Salinas. I'm studying Computer Science at BSU. This repository is for practising the GitHub Flow.
